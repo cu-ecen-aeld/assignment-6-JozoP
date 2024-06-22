@@ -13,7 +13,7 @@ PV = "1.0+git${SRCPV}"
 #SRCREV = "9d0814943e470074f6e09c7996783ad4fd8c7fde"
 # roll back repository and try again
 # should not work, but...
-SRCREV = "d12c11bf8702211f005c7a93b1bed4d24ebe52df"
+SRCREV = "4c25710e7eaa3808d65a6246459048b9a44e37e3"
 
 # This sets your staging directory based on WORKDIR, where WORKDIR is defined at 
 # https://docs.yoctoproject.org/ref-manual/variables.html?highlight=workdir#term-WORKDIR
